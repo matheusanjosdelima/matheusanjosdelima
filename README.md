@@ -8,7 +8,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Matheus-pic" height="180" style="border-radius:50px;" src="https://pbs.twimg.com/media/FLGpby4WUAgt455?format=jpg&name=large">
+  <img align="right" alt="Matheus-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FLGpby4WUAgt455?format=jpg&name=large">
 </div>
   
   ##
